@@ -240,8 +240,6 @@ mod test {
     }
 
     #[test]
-
-    #[test]
     fn test_insert() {
         let mut schema = Schema::default();
         let field_id = schema.insert("foo").unwrap();
