@@ -240,7 +240,6 @@ mod test {
     }
 
     #[test]
-    fn test_insert_with_position_non_all_searchable_attributes() {}
 
     #[test]
     fn test_insert() {
